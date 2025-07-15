@@ -1,0 +1,29 @@
+<svg width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="800" height="400" fill="#121212" rx="10" ry="10"/>
+  
+  <!-- Spotify-like Logo -->
+  <circle cx="400" cy="150" r="80" fill="#1DB954"/>
+  
+  <!-- Music Note Symbol -->
+  <path d="M430 110 L430 190 Q430 210 410 210 Q390 210 390 190 Q390 170 410 170 L410 110 Z" fill="#121212"/>
+  <circle cx="410" cy="110" r="15" fill="#121212"/>
+  
+  <!-- Music Controls -->
+  <rect x="200" y="250" width="400" height="10" rx="5" ry="5" fill="#333"/>
+  <rect x="200" y="250" width="150" height="10" rx="5" ry="5" fill="#1DB954"/>
+  <circle cx="350" cy="255" r="8" fill="#fff"/>
+  
+  <!-- Control Buttons -->
+  <circle cx="350" cy="300" r="25" fill="#fff" stroke="#333" stroke-width="2"/>
+  <polygon points="340,290 340,310 365,300" fill="#121212"/>
+  
+  <circle cx="280" cy="300" r="15" fill="none" stroke="#fff" stroke-width="2"/>
+  <polygon points="275,295 275,305 270,300" fill="#fff"/>
+  
+  <circle cx="420" cy="300" r="15" fill="none" stroke="#fff" stroke-width="2"/>
+  <polygon points="425,295 425,305 430,300" fill="#fff"/>
+  
+  <!-- Text Elements -->
+  <text x="400" y="350" font-family="Arial" font-size="18" fill="#fff" text-anchor="middle">Spotify Clone</text>
+</svg>
